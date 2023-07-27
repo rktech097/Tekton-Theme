@@ -199,3 +199,6 @@ override_whitelisted_methods = {
 # auth_hooks = [
 #	"tekton_theme.auth.validate"
 # ]
+fixtures = [
+    {"dt":"Property Setter","filters":[["module","=","Tekton Theme"]]}
+]
